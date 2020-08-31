@@ -15,14 +15,14 @@ api = tweepy.API(auth)
 phrases = ["Thank you for bringing up this important topic. Could you also look into denying the permits for the relocation of General Iron to the East Side? They pose a danger to our community.",
             "This is definitely worth talking about. Another thing worth talking about is the health risks associated with General Iron moving to the Southeast side. May you help us out?",
             "I respect your decisions Mrs. Lightfoot, but the East Side neighborhood has felt neglected recently because you haven't stopped a hazardous factory from moving into our community. If the North Side can get rid of them, why can't we?",
-            "Thank you for all the help you have given to Chicago. All residents of the East Side would be grateful for your help in stopping General Iron's relocation to our area, as they are known for several violations. Thank you for showing us you care ❤️",
+            "Thank you for all the help you have given to Chicago. All residents of the East Side would be grateful for your help in stopping General Iron's relocation to our area, as they are known for several violations. Thank you for your help.❤️",
             "I agree, this is absolutely an important matter. However, I would also like to bring up the fact that General Iron is posing a health risk to the forgotten community of the East Side. We need your help in stopping them from poisoning our area."
             ]
 
 #If a tweet mentions COVID-19, a random phrase from this list will be chosen instead.
 covidPhrases = ["Thank you for your swift actions against COVID-19. Your fellow residents on the Southeast side will also face another health risk if you allow General Iron to move into our community, and we are worried.",
                 "COVID-19 is absolutely a threat to our wellbeing. In addition to the pandemic, Southeast side residents will suffer further health risks if General Iron moves into our neighborhood. Please, step in and stop their relocation.",
-                "Your dedication to slowing down coronavirus cases in Chicago is remarkable. Could you also share this dedication with your residents in the East Side by stopping General Iron from moving into our neighborhood? We're already plagued with other industries polluting the area."
+                "Your dedication to slowing down coronavirus cases in Chicago is remarkable. Could you also share this dedication with your residents in the East Side by stopping General Iron from moving into our neighborhood? We're already plagued with other industries."
                 ]
 
 #If my bot finds a tweet that mentions General Iron, this reply will be given
