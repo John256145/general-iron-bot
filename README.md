@@ -7,7 +7,7 @@ A metal shredder in the city of Chicago known as General Iron has a notorious re
 ## What Does It Do?
 In an effort to support the voices of environmental activists, I programmed this bot to automatically reply to every new tweet that Chicago mayor Lori Lightfoot makes. It politely reminds Lightfoot of this situation by randomly choosing a reply from a pre-constructed list.
 
-Further techincal comments are provided in the code.
+Further techincal comments are provided in the [code](https://github.com/John256145/general-iron-bot/blob/master/GIbot.py).
 
 ## Sources and Further Reading
 [Change.org petition](https://www.change.org/p/j-b-pritzker-stop-poisoning-our-children-keep-infamous-polluter-general-iron-out-of-chicago-5eb924c4-05a5-4b56-a472-66230229afe4)
